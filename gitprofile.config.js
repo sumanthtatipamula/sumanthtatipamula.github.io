@@ -7,7 +7,7 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
-      projects: [sumanthtatipamula.github.io], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['sumanthtatipamula.github.io'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
